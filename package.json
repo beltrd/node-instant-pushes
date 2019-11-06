@@ -1,0 +1,26 @@
+{
+  "name": "instant-pushes",
+  "version": "1.0.0",
+  "description": "This will be a test to find a way to do real-time notification system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beltrd/node-instant-pushes.git"
+  },
+  "keywords": [
+    "node",
+    "socket.io"
+  ],
+  "author": "Diego Beltran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beltrd/node-instant-pushes/issues"
+  },
+  "homepage": "https://github.com/beltrd/node-instant-pushes#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
